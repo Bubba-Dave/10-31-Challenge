@@ -1,6 +1,6 @@
 # 10-31-Challenge
 # 01 HTML, CSS, and Git: Code Refactor
-![Alt text] (https://bubba-dave.github.io/Code-Refactor/ "Horiseon Website"
+![2021-10-31 10_54_08-Horizon Social Solution Services, Inc](https://user-images.githubusercontent.com/59671603/139594434-26b5e0c3-67d5-4221-ae1e-7730eece7dc0.png)
  One of the most common tasks for front-end and junior developers is to take existing code and refactor it to either meet a certain set of standards or implement a new technology. Web accessibility is an increasingly important consideration for businesses, ensuring that people with disabilities and/or socio-economic restrictions have access to their website. Accessible websites are better optimized for search engines, and help companies avoid litigation.
 
 For this week's Challenge, your task is to refactor an existing webpage to make it accessible and to improve SEO. It's important to follow the Scout Rule when working with an existing codebase: Always leave the code a little cleaner than you found it. 
